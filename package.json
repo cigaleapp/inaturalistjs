@@ -8,7 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "openapi-ts",
-    "build": "tsc --outDir dist"
+    "build": "tsc --outDir dist",
+    "docs": "typedoc src/index.ts"
   },
   "keywords": [],
   "author": "Gwenn Le Bihan <gwenn.lebihan7@gmail.com>",
@@ -26,6 +27,7 @@
     "@hey-api/openapi-ts": "^0.67.3",
     "biome": "^0.3.3",
     "oxlint": "^0.16.10",
+    "typedoc": "^0.28.4",
     "typescript": "^5.8.3"
   }
 }
