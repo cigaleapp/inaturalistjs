@@ -11,8 +11,13 @@
     "build": "tsc --outDir dist"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gwenn Le Bihan <gwenn.lebihan7@gmail.com>",
+  "homepage": "https://github.com/cigaleapp/inaturalistjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cigaleapp/inaturalistjs"
+  },
+  "license": "MIT",
   "packageManager": "pnpm@10.8.0",
   "dependencies": {
     "@hey-api/client-fetch": "^0.10.0"
