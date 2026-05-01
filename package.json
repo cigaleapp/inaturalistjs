@@ -28,6 +28,6 @@
     "biome": "^0.3.3",
     "oxlint": "^0.16.10",
     "typedoc": "^0.28.4",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   }
 }
