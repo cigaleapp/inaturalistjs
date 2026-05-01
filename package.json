@@ -26,7 +26,7 @@
   "devDependencies": {
     "@hey-api/openapi-ts": "^0.67.3",
     "biome": "^0.3.3",
-    "oxlint": "^0.16.10",
+    "oxlint": "^0.18.1",
     "typedoc": "^0.28.4",
     "typescript": "^5.8.3"
   }
