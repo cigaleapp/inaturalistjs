@@ -24,7 +24,7 @@
     "@hey-api/client-fetch": "^0.10.0"
   },
   "devDependencies": {
-    "@hey-api/openapi-ts": "^0.67.3",
+    "@hey-api/openapi-ts": "^0.99.0",
     "biome": "^0.3.3",
     "oxlint": "^0.16.10",
     "typedoc": "^0.28.4",
