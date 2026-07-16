@@ -19,7 +19,7 @@
     "url": "https://github.com/cigaleapp/inaturalistjs"
   },
   "license": "MIT",
-  "packageManager": "pnpm@10.8.0",
+  "packageManager": "pnpm@10.34.5",
   "dependencies": {
     "@hey-api/client-fetch": "^0.10.0"
   },
